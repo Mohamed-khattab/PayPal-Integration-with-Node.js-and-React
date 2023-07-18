@@ -1,7 +1,7 @@
 # PayPal Integration with Node.js and React
 
 ## Description
-The "PayPal Integration with Node.js and React" repository aims to provide a foundation for seamlessly integrating PayPal payment functionality into a Node.js and React application. The repository showcases the implementation of various features, including creating payment agreements, processing payments, and implementing secure user authentication using JWT (JSON Web Tokens). It utilizes Sequelize as an ORM (Object-Relational Mapping) for working with the MySQL database and leverages MySQL as the database management system.
+The "PayPal Integration with Node.js and React" repository strives to offer a helpful starting point for integrating PayPal payment functionality into a Node.js and React application. The repository demonstrates the implementation of several essential features, such as creating payment agreements, processing payments, and incorporating secure user authentication through JWT (JSON Web Tokens). It utilizes Sequelize as an ORM (Object-Relational Mapping) for seamless interaction with the MySQL database and relies on MySQL as the chosen database management system.
 
 ### Features
 1. **Payment Agreement Creation:** Implement the functionality to create payment agreements with PayPal.
